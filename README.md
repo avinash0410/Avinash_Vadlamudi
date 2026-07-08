@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/avinash-vadlamudi7/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -230,3 +230,859 @@ Graduate Opportunities
 ---
 
 ---
+<!-- ========================= TECH STACK ========================= -->
+
+# Tech Stack
+
+## Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,bash"/>
+
+</p>
+
+---
+
+## Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
+
+</p>
+
+---
+
+## Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring"/>
+
+</p>
+
+---
+
+## Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase"/>
+
+</p>
+
+---
+
+## Artificial Intelligence & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+</p>
+
+<p align="center">
+
+Machine Learning • Deep Learning • CNNs • Transfer Learning • Explainable AI • Computer Vision • NLP • Large Language Models • RAG • Agentic AI
+
+</p>
+
+---
+
+## Cloud, DevOps & Infrastructure
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,linux"/>
+
+</p>
+
+---
+
+## Data Science & Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
+</p>
+
+<p align="center">
+
+Pandas • NumPy • Matplotlib • Scikit-learn • Power BI • Statistical Analysis • Forecasting
+
+</p>
+
+---
+
+## Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,postman"/>
+
+</p>
+
+---
+
+## Testing & Quality Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PyTest-Enterprise_Testing-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Selenium-Automation-5B21B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JMeter-Performance_Testing-4338CA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux-Networking-7C3AED?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Areas of Expertise
+
+| Domain | Technologies |
+|---------|--------------|
+| Programming | Python, Java, JavaScript, TypeScript, C |
+| Frontend | React, Next.js, HTML5, CSS3, Tailwind CSS |
+| Backend | FastAPI, Flask, Node.js, Express, Spring Boot |
+| Databases | PostgreSQL, MySQL, MongoDB, SQLite |
+| AI / ML | TensorFlow, PyTorch, OpenCV, Scikit-learn |
+| Computer Vision | EfficientNetV2, ResNet50, YOLO, Grad-CAM |
+| Explainable AI | Grad-CAM, Grad-CAM++, Integrated Gradients |
+| Data Analytics | Pandas, NumPy, Power BI, Forecasting |
+| Cloud | AWS, Azure |
+| DevOps | Docker, GitHub Actions, Linux |
+| Testing | PyTest, Selenium, Jenkins, JMeter |
+| Version Control | Git, GitHub |
+
+---
+
+<!-- ========================= AI & ML EXPERTISE ========================= -->
+
+# AI & Machine Learning Expertise
+
+<p align="center">
+
+Building intelligent systems through deep learning, computer vision, explainable AI, and modern generative AI technologies.
+
+</p>
+
+---
+
+| Domain | Proficiency | Experience & Technologies |
+|---------|------------|---------------------------|
+| Computer Vision | ★★★★★ | Medical Image Classification, Image Processing, Transfer Learning |
+| Deep Learning | ★★★★★ | CNNs, EfficientNetV2, ResNet50, TensorFlow, PyTorch |
+| Explainable AI | ★★★★★ | Grad-CAM, Grad-CAM++, Integrated Gradients, Medical Explainability |
+| Machine Learning | ★★★★☆ | Classification, Regression, Feature Engineering, Model Evaluation |
+| Data Analytics | ★★★★★ | Predictive Analytics, Statistical Analysis, Visualization |
+| Natural Language Processing | ★★★☆☆ | Sentiment Analysis, Transformers, DistilBERT |
+| Generative AI | ★★★★☆ | LLM Applications, Prompt Engineering, AI Assistants |
+| Agentic AI | ★★★★☆ | LangGraph, Multi-Agent Workflows, AI Automation |
+| Retrieval-Augmented Generation | ★★★★☆ | LangChain, Vector Databases, Semantic Search |
+| Model Deployment | ★★★☆☆ | FastAPI, Docker, REST APIs |
+| Software Testing | ★★★★★ | Enterprise Test Automation, Python, CI/CD |
+| Cloud Computing | ★★★☆☆ | AWS, Azure Fundamentals |
+
+---
+
+## Research Interests
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Artificial Intelligence
+
+- Explainable AI (XAI)
+- Medical AI
+- Deep Learning
+- Computer Vision
+- Vision Transformers
+- Intelligent Automation
+
+</td>
+
+<td width="50%">
+
+### Software Engineering
+
+- Scalable AI Systems
+- Cloud-native Applications
+- Test Automation
+- API Engineering
+- Distributed Systems
+- Enterprise Software
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## AI Technology Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Frameworks | TensorFlow, PyTorch, Scikit-learn |
+| Computer Vision | OpenCV, EfficientNetV2, ResNet50, YOLO |
+| Explainable AI | Grad-CAM, Grad-CAM++, Integrated Gradients |
+| NLP | Transformers, DistilBERT |
+| Data Processing | Pandas, NumPy |
+| Visualization | Matplotlib, Plotly |
+| Deployment | FastAPI, Docker |
+| AI Workflows | LangChain, LangGraph |
+| Version Control | Git, GitHub |
+
+---
+
+## Engineering Philosophy
+
+> Build AI systems that are **accurate**, **interpretable**, **scalable**, and **deployable**, ensuring they solve real-world problems while maintaining transparency, reliability, and engineering excellence.
+
+---
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+# Featured Projects
+
+---
+
+<details open>
+
+<summary>
+
+## Retinal Disease Detection using EfficientNetV2 & Explainable AI
+
+</summary>
+
+### Overview
+
+An AI-powered medical imaging system capable of classifying retinal OCT scans into multiple disease categories using EfficientNetV2 transfer learning combined with Explainable AI techniques to improve transparency and clinical interpretability.
+
+| Category | Details |
+|----------|---------|
+| Stack | TensorFlow • EfficientNetV2 • OpenCV • Grad-CAM • Python |
+| Dataset | Retinal OCT Images |
+| AI Techniques | Transfer Learning, Data Augmentation, Explainable AI |
+| Performance | Replace with your final validation accuracy |
+| Security | Local inference, reproducible workflow |
+| Impact | Supports interpretable medical decision-making |
+| Repository | Add GitHub Repository Link |
+
+### Key Features
+
+- Multi-class retinal disease classification
+- EfficientNetV2 transfer learning
+- Grad-CAM visual explanations
+- Confidence scoring
+- Top-3 prediction support
+- Automated preprocessing
+- Medical image augmentation
+- Performance evaluation metrics
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## Vision AI Agent
+
+</summary>
+
+### Overview
+
+A modular AI agent designed for automated computer vision workflows. The system processes medical images, performs inference, generates confidence scores, and produces explainable visual outputs to support human decision-making.
+
+| Category | Details |
+|----------|---------|
+| Stack | Python • TensorFlow • OpenCV • FastAPI |
+| Architecture | Modular AI Agent |
+| Features | Prediction, Explainability, Reporting |
+| Security | Local processing |
+| Impact | End-to-end AI workflow automation |
+| Repository | Add Repository Link |
+
+### Highlights
+
+- Image preprocessing
+- Automated inference
+- Explainability integration
+- Confidence estimation
+- Medical report generation
+- Modular architecture
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## YOLO-Based Object Detection System
+
+</summary>
+
+### Overview
+
+An object detection pipeline leveraging the YOLO architecture for real-time localization and detection. Built with a modular design to support integration into broader AI systems.
+
+| Category | Details |
+|----------|---------|
+| Stack | YOLO • OpenCV • Python |
+| Detection | Real-Time Object Detection |
+| Performance | Optimized inference pipeline |
+| Security | Local deployment |
+| Impact | Extensible vision applications |
+| Repository | Add Repository Link |
+
+### Highlights
+
+- Real-time detection
+- Bounding box visualization
+- Confidence thresholds
+- Scalable inference pipeline
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## Dublin Housing Analytics & Forecasting
+
+</summary>
+
+### Overview
+
+A predictive analytics project exploring long-term housing affordability trends using historical property transaction data. Includes forecasting models and interactive visualizations.
+
+| Category | Details |
+|----------|---------|
+| Stack | Python • Pandas • Power BI • Scikit-learn |
+| Dataset | Residential Property Transactions |
+| Analysis | Forecasting, Trend Analysis |
+| Impact | Housing market insights |
+| Repository | Add Repository Link |
+
+### Highlights
+
+- Predictive modeling
+- Trend forecasting
+- Interactive dashboards
+- Statistical analysis
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## Amazon Food Reviews Sentiment Analysis
+
+</summary>
+
+### Overview
+
+A natural language processing project comparing classical machine learning algorithms with transformer-based models for sentiment classification on a large-scale review dataset.
+
+| Category | Details |
+|----------|---------|
+| Stack | Python • DistilBERT • Scikit-learn |
+| Dataset | Amazon Food Reviews |
+| Models | Logistic Regression, Naive Bayes, DistilBERT |
+| Evaluation | Accuracy, Precision, Recall, F1 Score |
+| Repository | Add Repository Link |
+
+### Highlights
+
+- NLP pipeline
+- Data preprocessing
+- Transformer benchmarking
+- Performance comparison
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## EV Charging Infrastructure Analytics
+
+</summary>
+
+### Overview
+
+A data analytics project focused on understanding electric vehicle charging patterns, infrastructure utilization, and forecasting future demand through statistical modeling and visualization.
+
+| Category | Details |
+|----------|---------|
+| Stack | Python • Pandas • Plotly |
+| Domain | Smart Cities |
+| Analysis | Time Series, Forecasting |
+| Impact | Data-driven planning insights |
+| Repository | Add Repository Link |
+
+### Highlights
+
+- Forecasting
+- Interactive visualizations
+- Infrastructure analysis
+- Data storytelling
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## Enterprise Test Automation Framework
+
+</summary>
+
+### Overview
+
+Python-based automation framework inspired by enterprise software testing practices. Designed to validate networking workflows, improve regression testing efficiency, and streamline software quality assurance.
+
+| Category | Details |
+|----------|---------|
+| Stack | Python • PyTest • Jenkins • Linux |
+| Domain | Enterprise Networking |
+| Features | Automated Testing, CI Integration |
+| Impact | Improved software quality |
+| Repository | Private / Enterprise Experience |
+
+### Highlights
+
+- Test automation
+- Regression testing
+- CI/CD integration
+- Enterprise engineering practices
+
+</details>
+
+---
+
+<!-- ========================= EXPERIENCE ========================= -->
+
+# Professional Experience
+
+---
+
+## Software Test Engineer (Apprentice)
+
+### Cisco Systems
+
+**November 2023 – Present**
+
+Enterprise Software Engineering • Network Automation • Quality Engineering
+
+### Overview
+
+Working as part of an enterprise engineering environment, contributing to software quality, automation, and validation for carrier-grade networking platforms. Responsibilities include developing automated test solutions, validating synchronization protocols, configuring networking environments, and ensuring reliable software delivery.
+
+### Key Responsibilities
+
+- Developed Python-based automation scripts to improve testing efficiency.
+- Designed and executed automated regression test suites.
+- Configured and validated networking testbeds for enterprise platforms.
+- Performed protocol validation for synchronization and timing technologies.
+- Worked within Linux-based development and testing environments.
+- Contributed to continuous integration and software quality initiatives.
+- Investigated software defects and collaborated with engineering teams.
+- Improved testing reliability through automation and reusable test frameworks.
+
+### Technologies
+
+`Python` • `Linux` • `PyTest` • `Git` • `Jenkins` • `Networking` • `Automation` • `CI/CD`
+
+---
+
+# Education
+
+---
+
+## Dublin City University
+
+**MSc in Computing**
+
+**2025 – 2026**
+
+### Academic Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Cloud Computing
+- Data Analytics
+- Software Engineering
+- Research Methods
+
+### Dissertation
+
+**Explainable Deep Learning for Retinal Disease Detection Using Optical Coherence Tomography (OCT)**
+
+Research areas include:
+
+- EfficientNetV2
+- Explainable AI
+- Medical Image Classification
+- Computer Vision
+- Transfer Learning
+- Deep Learning
+- AI Agents
+
+---
+
+## Prasad V. Potluri Siddhartha Institute of Technology
+
+**Bachelor of Technology (Information Technology)**
+
+### Core Areas
+
+- Data Structures
+- Algorithms
+- Database Systems
+- Software Engineering
+- Computer Networks
+- Operating Systems
+- Object-Oriented Programming
+
+---
+
+## Professional Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Explainable AI
+- Software Engineering
+- Cloud Computing
+- Distributed Systems
+- Full Stack Development
+- DevOps
+- Open Source
+
+<!-- ========================= ACHIEVEMENTS ========================= -->
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|--------------|---------|
+| MSc Computing | Dublin City University |
+| Software Engineering Experience | Cisco Systems |
+| AI Research | Explainable AI for Medical Imaging |
+| Enterprise Automation | Python-based Test Automation |
+| Computer Vision | Medical Image Classification |
+| Machine Learning | Deep Learning & Transfer Learning |
+| Data Analytics | Predictive Analytics & Forecasting |
+| Open Source | Building Public AI Projects |
+
+</div>
+
+---
+
+# Certifications
+
+## Cisco
+
+<p>
+
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Python_Automation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
+
+---
+
+## AWS
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+## Oracle
+
+<p>
+
+<img src="https://img.shields.io/badge/Oracle-Java-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+---
+
+## NPTEL
+
+<p>
+
+<img src="https://img.shields.io/badge/NPTEL-Certified-0056D2?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Microsoft
+
+<p>
+
+<img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+</p>
+
+---
+
+## Currently Learning
+
+- Advanced Generative AI
+- Multi-Agent Systems
+- LangGraph
+- MLOps
+- Kubernetes
+- AWS Cloud
+- Production AI Systems
+
+---
+
+<!-- ========================= CODING PROFILES ========================= -->
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+
+<img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+
+<img src="https://img.shields.io/badge/HackerRank-View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+## GitHub Highlights
+
+- Enterprise Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Full Stack Development
+- Test Automation
+- Open Source Contributions
+- Data Analytics
+- Research Projects
+- Continuous Learning
+
+---
+<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<p>
+A visualization of my GitHub contribution history generated automatically using GitHub Actions.
+</p>
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+current_focus:
+
+  learning:
+    - Agentic AI
+    - Large Language Models (LLMs)
+    - LangGraph
+    - Retrieval-Augmented Generation (RAG)
+    - AWS Cloud
+    - Kubernetes
+    - MLOps
+    - Scalable System Design
+
+  building:
+    - Explainable AI for Medical Imaging
+    - Vision AI Agent
+    - Enterprise AI Applications
+    - AI-powered Automation Tools
+    - Intelligent Backend Services
+
+  exploring:
+    - Multi-Agent Systems
+    - AI Observability
+    - GraphRAG
+    - Distributed AI
+    - Production Machine Learning
+
+  open_to:
+    - Graduate Software Engineering Roles
+    - AI / Machine Learning Engineering Roles
+    - Backend Engineering
+    - Computer Vision Research
+    - Open Source Collaboration
+    - Research Opportunities
+
+  currently_reading:
+    - Designing Data-Intensive Applications
+    - Hands-On Machine Learning
+    - Clean Architecture
+
+  interests:
+    - Artificial Intelligence
+    - Software Architecture
+    - Cloud Engineering
+    - Open Source
+    - Computer Vision
+```
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME">
+
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="YOUR_PORTFOLIO_URL">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build intelligent software that makes a real-world impact.
+
+I enjoy collaborating on Artificial Intelligence, Machine Learning, Computer Vision, Cloud Computing, Full Stack Development, and Enterprise Software Engineering projects.
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Engineering is not just about writing code—it's about building reliable systems that solve meaningful problems."**
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+
+<!-- ========================= END OF PROFILE ========================= -->
