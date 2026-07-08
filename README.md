@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/avinash-vadlamudi7/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Email-avinash.vadlamudi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-vadlamudiavinashsrinivas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 <!--<a href="mailto:vadlamudiavinashsrinivas@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>-->
