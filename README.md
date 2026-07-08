@@ -90,7 +90,6 @@ I enjoy transforming research ideas into production-quality software while conti
 - Backend Engineering
 - API Development
 - System Design
-- Full Stack Applications
 - Cloud Native Solutions
 
 </td>
@@ -237,17 +236,7 @@ Graduate Opportunities
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,bash"/>
-
-</p>
-
----
-
-## Frontend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css"/>
 
 </p>
 
@@ -257,7 +246,7 @@ Graduate Opportunities
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
 
 </p>
 
@@ -267,7 +256,7 @@ Graduate Opportunities
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/>
 
 </p>
 
@@ -277,7 +266,7 @@ Graduate Opportunities
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,transformers"/>
 
 </p>
 
@@ -347,9 +336,8 @@ Pandas • NumPy • Matplotlib • Scikit-learn • Power BI • Statistical An
 
 | Domain | Technologies |
 |---------|--------------|
-| Programming | Python, Java, JavaScript, TypeScript, C |
-| Frontend | React, Next.js, HTML5, CSS3, Tailwind CSS |
-| Backend | FastAPI, Flask, Node.js, Express, Spring Boot |
+| Programming | Python, Java, C |
+| Backend | FastAPI, Flask|
 | Databases | PostgreSQL, MySQL, MongoDB, SQLite |
 | AI / ML | TensorFlow, PyTorch, OpenCV, Scikit-learn |
 | Computer Vision | EfficientNetV2, ResNet50, YOLO, Grad-CAM |
@@ -357,7 +345,7 @@ Pandas • NumPy • Matplotlib • Scikit-learn • Power BI • Statistical An
 | Data Analytics | Pandas, NumPy, Power BI, Forecasting |
 | Cloud | AWS, Azure |
 | DevOps | Docker, GitHub Actions, Linux |
-| Testing | PyTest, Selenium, Jenkins, JMeter |
+| Testing | PyTest, Selenium, Jenkins, JMeter, TestNG, Cypress |
 | Version Control | Git, GitHub |
 
 ---
@@ -470,7 +458,7 @@ An AI-powered medical imaging system capable of classifying retinal OCT scans in
 
 | Category | Details |
 |----------|---------|
-| Stack | TensorFlow • EfficientNetV2 • OpenCV • Grad-CAM • Python |
+| Stack | TensorFlow • EfficientNetV2S • OpenCV • Grad-CAM • Python |
 | Dataset | Retinal OCT Images |
 | AI Techniques | Transfer Learning, Data Augmentation, Explainable AI |
 | Performance | Replace with your final validation accuracy |
@@ -481,7 +469,7 @@ An AI-powered medical imaging system capable of classifying retinal OCT scans in
 ### Key Features
 
 - Multi-class retinal disease classification
-- EfficientNetV2 transfer learning
+- EfficientNetV2S transfer learning
 - Grad-CAM visual explanations
 - Confidence scoring
 - Top-3 prediction support
@@ -818,45 +806,6 @@ Research areas include:
 
 ---
 
-## AWS
-
-<p>
-
-<img src="https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-
----
-
-## Oracle
-
-<p>
-
-<img src="https://img.shields.io/badge/Oracle-Java-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</p>
-
----
-
-## NPTEL
-
-<p>
-
-<img src="https://img.shields.io/badge/NPTEL-Certified-0056D2?style=for-the-badge"/>
-
-</p>
-
----
-
-## Microsoft
-
-<p>
-
-<img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-</p>
-
----
 
 ## Currently Learning
 
@@ -870,69 +819,6 @@ Research areas include:
 
 ---
 
-<!-- ========================= CODING PROFILES ========================= -->
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/HackerRank-View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&column=4"/>
-
-</div>
-
----
 
 ## GitHub Highlights
 
@@ -940,26 +826,12 @@ Research areas include:
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
-- Full Stack Development
 - Test Automation
-- Open Source Contributions
 - Data Analytics
 - Research Projects
 - Continuous Learning
 
 ---
-<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
-
-# Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
 # Contribution Snake
 
 <div align="center">
