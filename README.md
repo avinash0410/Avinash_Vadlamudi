@@ -67,7 +67,7 @@ Building enterprise-grade software, intelligent AI systems, scalable cloud appli
 
 I am a <b>Software Engineer</b> currently pursuing an <b>MSc in Computing</b> at <b>Dublin City University (DCU)</b>, with a strong passion for designing intelligent software systems that combine <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Computer Vision</b>, <b>Cloud Computing</b>, and <b>Full Stack Development</b>.
 
-My professional experience includes working as a <b>Software Test Engineer at Cisco</b>, where I contributed to enterprise-grade networking solutions by developing Python automation frameworks, validating synchronization protocols, configuring large-scale networking testbeds, and improving software quality through automated testing and continuous integration practices.
+My professional experience includes working as a <b>Software Engineer at Cisco</b>, where I contributed to enterprise-grade networking solutions by developing Python automation frameworks, validating synchronization protocols, configuring large-scale networking testbeds, and improving software quality through automated testing and continuous integration practices.
 
 Beyond enterprise software engineering, I actively build AI-powered applications focusing on <b>Computer Vision</b>, <b>Explainable AI (XAI)</b>, <b>Deep Learning</b>, <b>Agentic AI</b>, and <b>Retrieval-Augmented Generation (RAG)</b>. My research emphasizes creating trustworthy, scalable, and production-ready AI systems capable of solving real-world problems.
 
@@ -677,7 +677,7 @@ Python-based automation framework inspired by enterprise software testing practi
 
 ---
 
-## Software Test Engineer (Apprentice)
+## Software Engineer
 
 ### Cisco Systems
 
