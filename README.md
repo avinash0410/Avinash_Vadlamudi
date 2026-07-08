@@ -26,9 +26,8 @@
 <a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/avinash-vadlamudi7/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:vadlamudiavinashsrinivas@gmail.com">
