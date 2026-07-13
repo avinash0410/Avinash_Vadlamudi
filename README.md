@@ -34,17 +34,17 @@
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>-->
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/avinash0410">
 <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=avinash0410&style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6D28D9"/>
+<img src="https://img.shields.io/github/followers/avinash0410?style=for-the-badge&color=6D28D9"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=4F46E5"/>
+<img src="https://img.shields.io/github/stars/avinash0410?affiliations=OWNER&style=for-the-badge&color=4F46E5"/>
 
 </div>
 
