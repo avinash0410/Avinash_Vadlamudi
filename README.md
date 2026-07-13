@@ -40,12 +40,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=avinash0410&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/avinash0410?style=for-the-badge&color=6D28D9"/>
-
-<img src="https://img.shields.io/github/stars/avinash0410?affiliations=OWNER&style=for-the-badge&color=4F46E5"/>
-
 </div>
 
 ---
