@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Machine+Learning+Engineer;Computer+Vision+Researcher;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Machine+Learning+Engineer;Computer+Vision+Researcher;Open+Source+Contributor;Building+Scalable+AI+Systems"/>
 
 <br><br>
 
